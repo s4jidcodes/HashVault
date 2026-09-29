@@ -69,6 +69,7 @@ The prototype uses a **Demo University Issuer Portal** to represent the universi
 
 ### Current Prototype Scope
 
+
 The prototype demonstrates the proposed concept and workflow. Production-level integrations such as official university APIs, DigiLocker/NAD integration and other external institutional systems are **not implemented in the current prototype**.
 
 ## 📊 Project Presentation
